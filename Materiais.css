@@ -1,0 +1,35 @@
+.selecoes
+{
+    position: relative;
+    top: 12%;
+    left: 34%;
+}
+
+.selecoes select
+{
+    width: 7.5%;
+    height: 3.5%;
+    margin: 0;
+    font-family: Font-Menu;
+    border: solid black;
+    font-size: 24px;
+}
+
+.selecoes label
+{
+    width: 5%;
+    font-family: Font-Menu;
+    font-size: 24px;
+}
+
+.selecoes input[type=submit]
+{
+    width: 7.5%;
+    height: 3.5%;
+    margin: 0;
+    font-family: Font-Menu;
+    border: solid black;
+    font-size: 24px;
+    background-color: white;
+    text-decoration: underline;
+}
